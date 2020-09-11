@@ -1,0 +1,10 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/fondo7.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}

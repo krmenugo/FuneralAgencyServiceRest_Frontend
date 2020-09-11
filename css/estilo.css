@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+section img {
+    width: 45%;
+    height: 45%;
+}
+
+section#boton1 {
+    width: auto;
+    height: 50%;
+    float: left;
+}
+
+section#boton2 {
+    width: auto;
+    height: 50%;
+    float: left;
+}
+
+footer {}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    width: 100%;
+    height: 30px;
+    float: left;
+    margin-top: 10px;
+    background: #0f0f0f;
+}
+
+footer h6{
+    text-align: center;
+    color: #FFFFFF;
+}
